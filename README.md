@@ -9,7 +9,7 @@ Mark favorite games and save them persistently.
 Filter games by type: indie games or commercial games.
 
 ！！！Deployment URL！！！
-Visit the application: https://yizhangtan.github.io/DAD_Course-project-I_Yizhang-Tan/
+Visit the application: [https://yizhangtan.github.io/DAD_Course-project-I_Yizhang-Tan/](https://yizhangtan.github.io/DAD_Course-project-I_Yizhang-Tan_excellent_games_2024/)
 I can't log into firebase in China... I don't know if it's a firewall or something, but I can't get it to work even if I try...
 ！！！Key Features！！！
 Homepage:
